@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "2CdEJHS3yh4SAsRdR2Qy8Ap9H+VV+a4BNbmjEgO5vj7qXarFBnkxvP70EEdnKcasNygj41FzYGiSurgOBupZ9A==",
+  "success": true,
+  "projectFilePath": "/home/ynot/Documents/ProgrammingProjects/cSharp/HelloWorld/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/ynot/.nuget/packages/opentk/4.6.7/opentk.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.compute/4.6.7/opentk.compute.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.core/4.6.7/opentk.core.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.graphics/4.6.7/opentk.graphics.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.input/4.6.7/opentk.input.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.mathematics/4.6.7/opentk.mathematics.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.openal/4.6.7/opentk.openal.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.redist.glfw/3.3.0-pre20200830200122/opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.windowing.common/4.6.7/opentk.windowing.common.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.windowing.desktop/4.6.7/opentk.windowing.desktop.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/opentk.windowing.graphicslibraryframework/4.6.7/opentk.windowing.graphicslibraryframework.4.6.7.nupkg.sha512",
+    "/home/ynot/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
