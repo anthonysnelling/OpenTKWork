@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ynot/Documents/ProgrammingProjects/cSharp/HelloWorld/HelloWorld/HelloWorld.csproj": {}
+    "/home/anthonysnelling/Documents/programmingProjects/cSharp/OpenTKWork/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/home/ynot/Documents/ProgrammingProjects/cSharp/HelloWorld/HelloWorld/HelloWorld.csproj": {
+    "/home/anthonysnelling/Documents/programmingProjects/cSharp/OpenTKWork/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ynot/Documents/ProgrammingProjects/cSharp/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/anthonysnelling/Documents/programmingProjects/cSharp/OpenTKWork/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/home/ynot/Documents/ProgrammingProjects/cSharp/HelloWorld/HelloWorld/HelloWorld.csproj",
-        "packagesPath": "/home/ynot/.nuget/packages/",
-        "outputPath": "/home/ynot/Documents/ProgrammingProjects/cSharp/HelloWorld/HelloWorld/obj/",
+        "projectPath": "/home/anthonysnelling/Documents/programmingProjects/cSharp/OpenTKWork/HelloWorld/HelloWorld.csproj",
+        "packagesPath": "/home/anthonysnelling/.nuget/packages/",
+        "outputPath": "/home/anthonysnelling/Documents/programmingProjects/cSharp/OpenTKWork/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ynot/.nuget/NuGet/NuGet.Config"
+          "/home/anthonysnelling/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
