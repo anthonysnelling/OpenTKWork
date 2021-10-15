@@ -25,6 +25,7 @@ namespace HelloWorld
             }
         }
     }
+    
     public class Window : GameWindow
         {
             // A simple constructor to let us set properties like window size, title, FPS, etc. on the window.
