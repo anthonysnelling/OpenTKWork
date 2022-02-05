@@ -27,3 +27,4 @@
 /home/anthonysnelling/Documents/programmingProjects/cSharp/OpenTKWork/Triangle/Triangle/obj/Debug/net5.0/ref/Triangle.dll
 /home/anthonysnelling/Documents/programmingProjects/cSharp/OpenTKWork/Triangle/Triangle/obj/Debug/net5.0/Triangle.pdb
 /home/anthonysnelling/Documents/programmingProjects/cSharp/OpenTKWork/Triangle/Triangle/obj/Debug/net5.0/Triangle.genruntimeconfig.cache
+/home/anthonysnelling/Documents/programmingProjects/cSharp/OpenTKWork/Triangle/Triangle/obj/Debug/net5.0/Triangle.csproj.CopyComplete

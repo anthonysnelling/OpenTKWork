@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using OpenTK.Graphics.OpenGL4;
 using OpenTK.Mathematics;
 
-namespace Triangle
+namespace LearnOpenTK.Common
 {
     // A simple class meant to help create shaders.
     public class Shader
@@ -87,7 +87,7 @@ namespace Triangle
         }
 
         private static void CompileShader(int shader)
-        {
+        
             // Try to compile the shader
             GL.CompileShader(shader);
 
